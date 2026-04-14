@@ -16,7 +16,7 @@ This repository contains all the **fundamental concepts and problems of Data Str
 - Reverse array  
 - Alternate elements  
 - Duplicate array  
-- Separate odd & even elements  
+- Separate odd & even  elements  
 - Sum & product of elements  
 - Count occurrences  
 - Check sorted (forward/backward)  
